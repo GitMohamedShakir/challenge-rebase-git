@@ -8,3 +8,4 @@ console.log(name, 'listening on port', port)
 
 
 console.log('Added Reverse')
+console.log('Added Echo');
